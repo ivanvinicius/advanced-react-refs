@@ -1,7 +1,17 @@
-### Imperative handle
+## Advanced Refs
 
-Learning to use advanced refs, implementing hooks like `useImperativeHandle` and `fowardRef`
+#### Sobre o projeto 
 
-download the dependencies and run the project using `yarn` tool
+Apredendo a usar refs de forma avançada no React
+`useImperativeHandle`
+`forwardRef`
 
-Ivan.
+#### Tecnologias utilizadas
+
+ * [React.JS](https://reactjs.org/)
+
+#### Instalação
+
+1. Baixe as depedências do projeto com o comando `$ yarn`.
+2. Inicie o projeto com o comando `$ yarn start`.
+

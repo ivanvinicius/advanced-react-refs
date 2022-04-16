@@ -1,16 +1,16 @@
 # Advanced Refs
 
-### Sobre o projeto 
+## Sobre o projeto 
 
 Apredendo a usar refs de forma avançada no React
 `useImperativeHandle`
 `forwardRef`
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
  * [React.JS](https://reactjs.org/)
 
-### Instalação
+## Instalação
 
 1. Baixe as depedências do projeto com o comando `$ yarn`.
 2. Inicie o projeto com o comando `$ yarn start`.
